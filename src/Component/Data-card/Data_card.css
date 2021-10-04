@@ -1,0 +1,20 @@
+.data-card{
+    margin: 20px 0;
+    padding: 0px;
+    border:2px solid #00FFEF;
+    border-radius: 10px;
+}
+.data-card>h4{
+    font-size: 16px;
+    color: #ddd;
+}
+.data-card>p{
+    color: #fff;
+    font-size: 13px;
+}
+.data-card img{
+    padding: 10px 0;
+    width: 65px;
+    margin: auto;
+    transform: translateX(50%);
+}

@@ -1,0 +1,19 @@
+.btn-formate{
+    margin-top: 10px;
+    background-color: #00FFEF !important;
+    padding: 11px 22px;
+    color: #202020;
+    font-weight: 600;
+    border-radius: 10px;
+    border: 2px solid #00FFEF;
+    position: relative;
+    top: 14px;
+}
+.btn-formate:hover{
+    background-color: #00ffee00 !important;
+    color: #fff;
+    text-decoration: none;
+    transition: .3s all;
+
+    
+}

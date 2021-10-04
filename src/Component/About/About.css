@@ -1,0 +1,28 @@
+.about{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.about .wrap-body{
+    margin-top: 80px;
+}
+.wrap-body>h3{
+    font-size: 40px;
+    color: #8f8f8f;
+}
+.wrap-body>h2{
+    margin-top: 20px;
+    font-size: 30px;
+    color: #2c2c2c;
+}
+.wrap-body p{
+    margin-top: 20px;
+    font-size: 15px;
+    color: #2c2c2c;
+}
+.wrap-3{
+    margin-top: 80px;
+}
+.wrap-3 h2{
+    font-size: 20px;
+    color: #939393;
+}

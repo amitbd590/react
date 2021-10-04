@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Custom software development",
+      "key": 1,
+      "image": "https://www.scnsoft.com/software-development-services/software-development/service_custom-software-development.svg",
+      "country": "USA",
+      "experience": "5 years",
+      "data":"We plan tailored software solutions for you to achieve operational excellence and deliver them fast and error-free."
+    },
+    {
+      "name": "Software product development",
+      "key": 2,
+      "image": "https://www.scnsoft.com/software-development-services/software-development/service_sw-product-development.svg",
+      "country": "USA",
+      "experience": "5 years",
+      "data":"We help startups and ISVs envision selling SaaS, mobile and desktop products, launch MVP in 1-4 months and consistently grow it to a full-blown product with major releases every 2-4 weeks."
+    },
+    {
+      "name": "Development team augmentation",
+      "key": 3,
+      "image": "https://www.scnsoft.com/software-development-services/software-development/service_team-augmentation.svg",
+      "country": "USA",
+      "experience": "5 years",
+      "data":"We can offer from 0.5 FTE to 150+ FTE resources to fill in specific skill gaps (developers and architects well-versed in back-end."
+    },
+    {
+      "name": "Maintenance and support",
+      "key": 4,
+      "image": "https://www.scnsoft.com/software-development-services/software-development/service_software-maintenance-support.svg",
+      "country": "USA",
+      "experience": "5 years",
+      "data":"We provide 24/7 support for your employees and customers, continuous software performance monitoring."
+    },
+    {
+      "name": "Maintenance and support",
+      "key": 5,
+      "image": "https://www.scnsoft.com/software-development-services/software-development/service_software-maintenance-support.svg",
+      "country": "USA",
+      "experience": "5 years",
+      "data":"We provide 24/7 support for your employees and customers, continuous software performance monitoring."
+    }
+   
+  ]

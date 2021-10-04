@@ -1,0 +1,14 @@
+.card{
+    margin: 20px;
+    border: 2px solid #00FFEF;
+    background: rgba(221, 221, 221, 0);
+    transition: transform .3s linear, box-shadow .2s;
+    
+}
+.card img{
+    height: 150px;
+}
+.card:hover{
+    transform: translateY(-10px);
+    box-shadow: 2px 4px 32px #00ffee83;
+}

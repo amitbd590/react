@@ -1,0 +1,13 @@
+nav{
+    position: sticky !important;
+}
+.navbar {
+    height: 100px;
+    background-color: #05001A !important;
+    border-bottom: 2px solid #00FFEF;
+}
+.navbar .nav-link{
+   color: #00FFEF !important;
+   font-size: 18px;
+   font-weight: 600;
+}

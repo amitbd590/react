@@ -1,0 +1,25 @@
+.heroBg{
+    margin-top: 150px;
+}
+.heroBg h2{
+    font-size: 40px;
+}
+.heroBg p{
+    margin-top: 20px;
+    font-size: 20px;
+    color: #fff;
+}
+.wrap{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #00FFEF;
+    border-radius: 10px;
+}
+.wrap p{
+    color: #00FFEF;
+    font-size: 15px;
+}
+.wrap h2{
+    color: #fff;
+    font-size: 15px;
+}

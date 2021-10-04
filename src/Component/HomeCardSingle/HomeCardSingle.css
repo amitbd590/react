@@ -1,0 +1,11 @@
+.home-card-data {
+    margin-top: 55px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .card-body h5{
+    font-size: 15px;
+  }
+  .card{
+    padding-bottom: 30px;
+  }
